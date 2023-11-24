@@ -6,8 +6,8 @@ h1{
     font-family: cincel;
 }
 .container{
-    background-image: linear-gradient(white, grey);
-    border: solid;
+    background-image: linear-gradient(white, rgb(94, 9, 241));
+    
     position: absolute;
     top: 50%;
     left: 50%;
